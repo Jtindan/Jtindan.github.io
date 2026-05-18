@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-04'
+  last_updated: '2026-05-18'
 papers:
   ijU6TyYAAAAJ:9yKSN-GCB0IC:
-    citations: 24
+    citations: 25
     title: Understanding day-night differences in dust activities over the dust belt of North Africa, the Middle East, and Asia
     year: '2022'
   ijU6TyYAAAAJ:IjCSPb-OGe4C:
@@ -12,6 +12,10 @@ papers:
   ijU6TyYAAAAJ:LkGwnXOMwfcC:
     citations: 0
     title: Investigating the Radiative Impacts of Saharan Dust on African Easterly Waves using WRF-Chem
+    year: '2026'
+  ijU6TyYAAAAJ:Se3iqnhoufwC:
+    citations: 0
+    title: Changes in the Westward Transport of Saharan Dust From West Africa With Anthropogenic Forcing in the WRF Model
     year: '2026'
   ijU6TyYAAAAJ:Tyk-4Ss8FVUC:
     citations: 0
@@ -38,7 +42,7 @@ papers:
     title: Evaluating WRF-CHEM Simulations of Saharan dust for the periods of 1981-2010 and 2041-2060 using NCEP, ECMWF reanalyses and the CMIP6 MPI model
     year: '2023'
   ijU6TyYAAAAJ:_FxGoFyzp5QC:
-    citations: 0
+    citations: 1
     title: Trends in daytime and nighttime dust aerosols over the Dust Belt revealed by IASI
     year: '2025'
   ijU6TyYAAAAJ:d1gkVwhDpl0C:
@@ -53,12 +57,8 @@ papers:
     citations: 0
     title: Long-term Variations in Daytime and Nighttime Dust activities Over the Dust belt of North Africa, the Middle East, and Asia in the Early 21st Century
     year: '2022'
-  ijU6TyYAAAAJ:roLk4NBRz8UC:
-    citations: 0
-    title: Changes in the westward transport of Saharan dust from West Africa with anthropogenic forcing in the WRF model
-    year: '2026'
   ijU6TyYAAAAJ:ufrVoPGSRksC:
-    citations: 2
+    citations: 3
     title: 'WRF simulations of future Saharan dust concentrations across West Africa: Historical and late 21st century'
     year: '2025'
   ijU6TyYAAAAJ:zYLM7Y9cAGgC:
